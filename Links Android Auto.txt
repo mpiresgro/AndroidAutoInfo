@@ -1,0 +1,39 @@
+
+Android Auto UX guidelines:  
+https://designguidelines.withgoogle.com/android-auto/android-auto/introduction.html
+
+Announcing the Android Auto Desktop Head Unit 
+https://android-developers.googleblog.com/2015/08/announcing-android-auto-desktop-head.html
+
+Android Auto: The Road Ahead - Google I/O 2016  
+https://www.youtube.com/watch?v=0Cv1EFhYU2M
+
+Assisting the Driver: From Android Phones to Android Cars (Google I/O '17)
+https://www.youtube.com/watch?v=4JlhCuTYSfc
+
+Built-in car OS
+http://www.indiatimes.com/technology/news/google-s-android-auto-lets-you-control-your-car-with-just-your-voice-no-smartphone-needed-321764.html
+
+Smarter cars powered by Android
+http://www.googblogs.com/smarter-cars-powered-by-android/
+
+Android in the car: This is Google's phone-less vision for connected driving
+http://www.techradar.com/news/android-in-the-car-this-is-googles-phone-free-vision-for-connected-driving
+
+Android at the Wheel: Google Aims for One Vehicle Ecosystem
+http://www.linuxinsider.com/story/84546.html
+
+XDA android auto vs Android Automotive	
+https://www.xda-developers.com/android-automotive-bluetooth-hfp/
+
+No, Android Auto is not an Infotainment OS; Make Way for Android Automotive!
+https://www.embitel.com/blog/embedded-blog/no-android-auto-is-not-an-infotainment-os-make-way-for-android-automotive
+
+Life in the fast lane: Linux or Android for automotive infotainment systems?
+http://www.embeddedintel.com/special_features.php?article=2475
+
+Android at the Wheel: Google Aims for One Vehicle Ecosystem
+http://www.linuxinsider.com/story/84546.html
+
+Android Auto: review and full user guide
+http://www.autoexpress.co.uk/car-tech/96496/android-auto-review-and-full-user-guide
